@@ -1,3 +1,7 @@
 [submodule "two"]
 	path = spotify-plus-youtube-controller
 	url = https://github.com/mi-art/spotify-plus-youtube-controller
+[submodule "branches/support_web_playback"]
+	path = branches/support_web_playback
+	url = https://github.com/mi-art/spotify-plus-youtube-controller.git
+	branch = support_web_playback
